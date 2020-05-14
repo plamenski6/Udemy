@@ -6,3 +6,6 @@ Master Bootstrap 4 and build 5 real world themes while learning HTML5 semantics 
 - Learn the Bootstrap 4 utilities, classes, components & JS widgets using a custom sandbox environment
 - Learn semantic HTML5 & modern CSS3 techniques
 - Learn to compile Sass in the easiest way possible using a GUI
+
+# CERTIFICATE
+![Bootstrap 4 Certificate of Completion - May 2020](https://github.com/plamenski6/Certificates/blob/master/Bootstrap%204%20Certificate%20of%20Completion%20-%20May%202020.jpg)
